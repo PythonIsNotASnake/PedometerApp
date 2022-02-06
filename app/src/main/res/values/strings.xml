@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Step Counter</string>
+    <string name="steps">Steps</string>
+    <string name="title_control_center">Control Center</string>
+    <string name="steps_text">Your steps by the step counter sensor in your Smartphone. This App will upload your steps to the server every time you open or close the app.</string>
+    <string name="control_center_text">With the control center you can upload your steps manually.</string>
+
+    <array name="light_images">
+        <item>@drawable/img_sunshine</item>
+        <item>@drawable/img_cloudy</item>
+        <item>@drawable/img_evening</item>
+        <item>@drawable/img_gear</item>
+    </array>
+
+</resources>

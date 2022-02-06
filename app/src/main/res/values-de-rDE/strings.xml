@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Schrittzähler</string>
+    <string name="steps">Schritte</string>
+    <string name="title_control_center">Kontrollzenter</string>
+    <string name="steps_text">Zeigt Ihre Schritte gemäß des step counter Sensors in Ihrem Smartphone. Diese App wird Ihre Schritte jedes Mal auf den Server hochladen, wenn Sie die App öffnen oder schließen.</string>
+    <string name="control_center_text">Mit dem Kontrollzenter können Sie Ihre Schritte manuell hochladen.</string>
+</resources>
